@@ -20,3 +20,4 @@ CVS
 #build & project dirs
 target
 .settings
+.project
