@@ -21,3 +21,4 @@ CVS
 target
 .settings
 .project
+.classpath
